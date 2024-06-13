@@ -1,7 +1,7 @@
 {
-  "name": "rishav-chanda-portfolio",
+  "name": "sankeerthana-kodumuru-portfolio",
   "version": "0.1.0",
-  "homepage": "https://rishavchanda.github.io",
+  "homepage": "https://sankeerthanak.github.io",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
